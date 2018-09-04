@@ -1,0 +1,26 @@
+body{ background-color: black;
+    text-align: center;
+}
+
+h1{ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:red;
+    font-size: 5rem;
+}
+
+h2{ font-family: 'Courier New', Courier, monospace;
+color: aliceblue
+}
+
+p{ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.25rem;
+    color: darkred;
+    font-style: oblique;
+
+}
+
+a{ color: chartreuse;
+
+}
+a:hover{ color: blue;
+
+}
